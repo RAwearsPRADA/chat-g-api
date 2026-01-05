@@ -1,5 +1,6 @@
 {
   "name": "chat-g-server",
+  "type": "module",
   "version": "1.0.0",
   "description": "WebRTC Signaling Server for video calls",
   "main": "server.js",
@@ -18,4 +19,5 @@
   "engines": {
     "node": ">=18.0.0"
   }
+
 }
